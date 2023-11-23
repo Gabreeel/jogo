@@ -16,7 +16,7 @@ Este projeto consiste em um jogo de adivinhação de um número gerado aleatoria
 
 ## Instruções de Uso:
 
-1. Abra o jogo no seu navegador.
+1. Abra o jogo no seu navegador pelo link: https://jogo-de-adivinhacao-por-voz.vercel.app.
 2. Utilize o microfone para falar o número que você acha que foi gerado aleatoriamente.
 3. Use o comando de voz "Game Over" para encerrar o jogo a qualquer momento, se desejar.
 
